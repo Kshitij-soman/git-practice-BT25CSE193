@@ -8,7 +8,7 @@
 This repository contains the completed exercises for the Git and GitHub practice assignment, demonstrating version control workflows, branching, merging, and collaboration.
 
 ## Completed Exercises
-* **exercise-01:** [Brief description, e.g., Even or Odd Number Checker]
-* **exercise-02:** [Brief description, e.g., Array Elements Sum Calculator]
+* **exercise-01:** [Even or Odd Number Checker]
+* **exercise-02:** [Array Elements Sum Calculator]
 
 
