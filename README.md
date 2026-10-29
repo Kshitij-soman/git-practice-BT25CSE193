@@ -1,4 +1,4 @@
-# Git Practice Assignment
+#. Git Practice Assignment
 
 * **Name:** Kshitij Soman
 * **Roll Number:** BT25CSE193
